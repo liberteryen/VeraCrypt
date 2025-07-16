@@ -1,3 +1,4 @@
+# This repository is a fork of https://github.com/veracrypt/VeraCrypt/ containing fixes for various issues found in the original.
 ```bash
 wget https://github.com/wxWidgets/wxWidgets/releases/download/v3.3.0/wxWidgets-3.3.0.tar.bz2
 tar -xvf wxWidgets-3.3.0.tar.bz2
